@@ -1,0 +1,93 @@
+.Flag {
+    height: 900px;
+    width: 1500px;
+    display: flex;
+    flex-direction: column;
+}
+
+/*TOP*/
+.TopRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: blue;
+    width: 100%;
+    height: 50%;
+}
+
+.TopWhiteLeft {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    height: 87.5%;
+    width: 31.81%;
+}
+
+.TopRedLeft {
+    display: flex;
+    background-color: red;
+    height: 87.5%;
+    width: 85.71%;
+}
+
+.TopWhiteRight {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    background-color: white;
+    height: 87.5%;
+    width: 59.09%;
+}
+
+.TopRedRight {
+    display: flex;
+    background-color: red;
+    height: 87.5%;
+    width: 92.30%;
+}
+
+/*BOTTOM*/
+.BottomRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: blue;
+    width: 100%;
+    height: 50%;
+}
+
+.BottomWhiteLeft {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    background-color: white;
+    height: 87.5%;
+    width: 31.81%;
+}
+
+.BottomRedLeft {
+    display: flex;
+    background-color: red;
+    height: 87.5%;
+    width: 85.71%;
+}
+
+.BottomWhiteRight {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    justify-content: space-between;
+    background-color: white;
+    height: 87.5%;
+    width: 59.09%;
+}
+
+.BottomRedRight {
+    display: flex;
+    background-color: red;
+    height: 87.5%;
+    width: 92.30%;
+}

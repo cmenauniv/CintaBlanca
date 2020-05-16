@@ -1,0 +1,67 @@
+.nav {
+    display: block;
+}
+
+.trmenu {
+    display: inline-block;
+    margin-left: 1800px;
+}
+
+.trlink {
+    display: inline-block;
+    margin: 1px;
+    text-decoration: none;
+}
+
+.avatar{
+    border-radius: 50%;
+    width: 25px;
+}
+
+.dots{
+    width: 30px;
+}
+
+.contenedor {
+    margin-top: 15px;
+    padding-top: 40px;
+}
+
+.img_google {
+    margin-left: 730px;
+    margin-right: 660px;
+}
+
+.searcharea {
+    display: block;
+    margin-top: 50px;
+    margin-left: 740px;
+    margin-right: 750px;
+}
+
+.input {
+    display: inline-block;
+    width: 100%;
+    border: 1px #000 solid;
+    border-radius: 15px;
+}
+
+.buttons {
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.a1 {
+    color: black;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+label {
+    margin-left: 178px;
+}
+
+.a2 {
+    color: blue;
+    text-decoration: none;
+}

@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(207, 247, 156);
+}
+
+h1{
+    color: crimson;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+p{
+    color: darkblue;
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width: 400px;
+}
+
+.l1{
+    color: rgb(153, 23, 0);
+}
+
+.l2{
+    color: rgb(0, 40, 172);
+}
+
+.l3{
+    color: rgb(23, 99, 33);
+}
